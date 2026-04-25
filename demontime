@@ -8,7 +8,6 @@ local hwid = Analytics:GetClientId()
 local allowedHWIDs = {
     "5571D785-8AA0-49D5-9A2E-684CFEE26397",
     "6500549B-8F2A-F93D-D9E6-08BFB86D5462",
-    "63286955-7841-4676-B6A6-87342264F003"
 }
 
 local isAllowed = false

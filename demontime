@@ -32,7 +32,7 @@ local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Jbs Hub🏴‍☠️',
+    Title = 'Jbs.Esex AutoFarm Version Made By @jb8n,@5m2j',
     Center = true,
     AutoShow = true,
     TabPadding = 8,
@@ -44,7 +44,7 @@ local Tabs = {
     ['UI Settings'] = Window:AddTab('UI Settings'),
 }
 
-local MainGroupbox = Tabs.Main:AddLeftGroupbox('Jb.Esex🤑')
+local MainGroupbox = Tabs.Main:AddLeftGroupbox('Autofarm Functions🥶')
 
 local MyButton = MainGroupbox:AddButton({
     Text = 'ConsoleJoiner',
